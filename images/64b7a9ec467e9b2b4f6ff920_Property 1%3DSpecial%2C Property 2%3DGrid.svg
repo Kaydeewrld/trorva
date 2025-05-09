@@ -1,0 +1,32 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M19.5 4.5L18.5 5L18 5.5V13L19 14H26L27.5 13.5V5.5L27 4.5H19.5Z" fill="url(#paint0_radial_473_25654)"/>
+<path d="M5.5 18L4.5 18.5L4 19V26.5L5 27.5H12L14 27V19L13 18H5.5Z" fill="url(#paint1_radial_473_25654)"/>
+<g clip-path="url(#clip0_473_25654)">
+<path d="M27.6667 11.6483V6.93501C27.6667 5.08001 26.92 4.33334 25.065 4.33334H20.3517C18.4967 4.33334 17.75 5.08001 17.75 6.93501V11.6483C17.75 13.5033 18.4967 14.25 20.3517 14.25H25.065C26.92 14.25 27.6667 13.5033 27.6667 11.6483Z" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M14.2499 11.94V6.64334C14.2499 4.99834 13.5033 4.33334 11.6483 4.33334H6.93492C5.07992 4.33334 4.33325 4.99834 4.33325 6.64334V11.9283C4.33325 13.585 5.07992 14.2383 6.93492 14.2383H11.6483C13.5033 14.25 14.2499 13.585 14.2499 11.94Z" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M14.2499 25.065V20.3517C14.2499 18.4967 13.5033 17.75 11.6483 17.75H6.93492C5.07992 17.75 4.33325 18.4967 4.33325 20.3517V25.065C4.33325 26.92 5.07992 27.6667 6.93492 27.6667H11.6483C13.5033 27.6667 14.2499 26.92 14.2499 25.065Z" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M19.5 20.0833H26.5" stroke="white" stroke-linecap="round"/>
+<path d="M19.5 24.75H26.5" stroke="white" stroke-linecap="round"/>
+</g>
+<defs>
+<radialGradient id="paint0_radial_473_25654" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(22.6009 9.25) rotate(-90.5148) scale(17.2194 10.2863)">
+<stop offset="0.1" stop-color="white" stop-opacity="0"/>
+<stop offset="0.19" stop-color="white" stop-opacity="0.06"/>
+<stop offset="0.35" stop-color="white" stop-opacity="0.21"/>
+<stop offset="0.57" stop-color="white" stop-opacity="0.46"/>
+<stop offset="0.85" stop-color="white" stop-opacity="0.8"/>
+<stop offset="1" stop-color="white"/>
+</radialGradient>
+<radialGradient id="paint1_radial_473_25654" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(8.60087 22.75) rotate(-90.5148) scale(17.2194 10.2863)">
+<stop offset="0.1" stop-color="white" stop-opacity="0"/>
+<stop offset="0.19" stop-color="white" stop-opacity="0.06"/>
+<stop offset="0.35" stop-color="white" stop-opacity="0.21"/>
+<stop offset="0.57" stop-color="white" stop-opacity="0.46"/>
+<stop offset="0.85" stop-color="white" stop-opacity="0.8"/>
+<stop offset="1" stop-color="white"/>
+</radialGradient>
+<clipPath id="clip0_473_25654">
+<rect width="28" height="28" fill="white" transform="translate(2 2)"/>
+</clipPath>
+</defs>
+</svg>
