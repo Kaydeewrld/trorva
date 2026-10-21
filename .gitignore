@@ -1,0 +1,9 @@
+# Large archives
+*.zip
+
+# Vercel
+.vercel
+
+# System
+.DS_Store
+Thumbs.db

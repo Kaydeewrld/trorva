@@ -1,0 +1,5 @@
+# Files to ignore during Vercel deployment
+*.zip
+.git
+.gitignore
+.vercel
